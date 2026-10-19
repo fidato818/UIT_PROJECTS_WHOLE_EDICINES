@@ -1,0 +1,6 @@
+{
+  "name": "StrataOps Analytics",
+  "description": "Unified operations, financial ledger, order tracking, and task deadline intelligence for local teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
